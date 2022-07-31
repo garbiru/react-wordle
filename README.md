@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Wordle do Biel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was inspired on the oficial [https://www.nytimes.com/games/wordle/index.html](Wordle) 
+
+## Technologies used
+
+- ReactJS
 
 ## Available Scripts
 
