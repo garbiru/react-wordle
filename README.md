@@ -1,6 +1,8 @@
 # Wordle do Biel
 
-This project was inspired on the oficial [https://www.nytimes.com/games/wordle/index.html](Wordle) 
+This project was inspired on the oficial [Worlde](https://www.nytimes.com/games/wordle/index.html) 
+
+<img src="https://cdn.discordapp.com/attachments/1003049455181910017/1003112569373982810/unknown.png">
 
 ## Technologies used
 
